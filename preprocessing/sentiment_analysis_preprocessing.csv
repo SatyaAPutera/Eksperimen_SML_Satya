@@ -1,0 +1,395 @@
+Year,Month,Day,Time of Tweet,text,sentiment,Platform,sentiment_encoded,platform_encoded,time_encoded
+2018,8,18,morning,what a great day looks like dream,positive,Twitter,2,2,0
+2018,8,18,noon,i feel sorry i miss you here in the sea beach,positive,Facebook,2,0,2
+2017,8,18,night,dont angry me,negative,Facebook,0,0,1
+2022,6,8,morning,we attend in the class just for listening teachers reading on slide just nonsence,negative,Facebook,0,0,0
+2022,6,8,noon,those who want to go let them go,negative,Instagram,0,1,2
+2016,11,22,night,its night 2 am feeling neutral,neutral,Facebook,1,0,1
+2017,12,28,morning,2 am feedings for the baby are fun when he is all smiles and coos,positive,Facebook,2,0,0
+2017,12,28,noon,soooo high,neutral,Instagram,1,1,2
+2019,10,28,night,both of you,neutral,Twitter,1,2,1
+2018,5,28,morning,today first time i arrive in the boat its amazing journey,positive,Facebook,2,0,0
+2021,11,7,noon,love is something like emc2 rules,neutral,Instagram,1,1,2
+2016,4,10,night,i really really like the song cardigan by taylor swift,positive,Twitter,2,2,1
+2016,5,15,morning,my sharpie is running dangerously low on ink,negative,Facebook,0,0,0
+2016,11,15,noon,i want to go to music tonight but i lost my voice,negative,Instagram,0,1,2
+2016,11,15,night,always somewhere i miss you where i have been,neutral,Twitter,1,2,1
+2017,11,5,morning,dont distrube me,negative,Facebook,0,0,0
+2022,2,28,noon,i dont care who are you and what can you do,negative,Instagram,0,1,2
+2023,1,28,night,ive been sick for the past few days,neutral,Twitter,1,2,1
+2020,3,5,morning,im come back home my past job its really good time for me,positive,Facebook,2,0,0
+2019,11,30,noon,i will never fall in love until i found you,positive,Instagram,2,1,2
+2019,3,2,night,oh maya im so sorry i hope you find her soon,neutral,Twitter,1,2,1
+2019,11,30,morning,playing with kids its amazing,positive,Facebook,2,0,0
+2019,3,2,noon,is cleaning the house for her family who is comming later today,neutral,Instagram,1,1,2
+2019,8,28,night,i tried to shtdown my pc and accenditenly i click in the restart button its really disgusting,negative,Twitter,0,2,1
+2016,7,1,morning,follow me i will follow you too,neutral,Facebook,1,0,0
+2023,1,15,noon,its amazing game i playing everyday,positive,Instagram,2,1,2
+2023,2,10,night,im sorry,negative,Facebook,0,0,1
+2019,11,18,morning,im in the village now and there hardly found internate feeling gloomy,negative,Instagram,0,1,0
+2018,9,5,noon,juss came back from barisal,neutral,Twitter,1,2,2
+2020,4,2,night,went to sleep and there is a power cut in the village,neutral,Facebook,1,0,1
+2019,10,18,morning,how looks like our company new logo,positive,Instagram,2,1,0
+2023,1,18,noon,i buy sophies world book im really so happy,positive,Twitter,2,2,2
+2023,1,30,night,if it is any consolation i got my bmi tested hahaha it says i am obesed well so much for being unhappy for about 10 minutes,negative,Facebook,0,0,1
+2019,4,15,morning,thats very funny cute kids,positive,Instagram,2,1,0
+2017,8,25,noon,ahhh i slept through the game im gonna try my best to watch tomorrow though i hope we play army,neutral,Twitter,1,2,2
+2022,4,5,night,my semester final exam is complete hurray,positive,Facebook,2,0,1
+2022,1,5,morning,born and raised in nyc and living in texas for the past 10 years i still miss ny,negative,Instagram,0,1,0
+2019,3,8,noon,just in case you wonder we are really busy today and this coming with with adding tons of new blogs and updates stay tuned,neutral,Twitter,1,2,2
+2019,2,25,night,im soooooo sleeeeepy the last day o school was todaysniffle,negative,Facebook,0,0,1
+2018,11,5,morning,romance zero is funny,positive,Facebook,2,0,0
+2019,9,14,noon,car not happy big big dent in boot hoping theyre not going to write it off crossing fingers and waiting,neutral,Twitter,1,2,2
+2018,11,5,morning,yor are so unromantic,negative,Facebook,0,0,0
+2020,8,29,morning,mayday,neutral,Instagram,1,1,0
+2014,6,3,noon,id rather do the early runbut i am a morning runner,neutral,Twitter,1,2,2
+2020,8,29,night,i love to but im only available from 5pm and where dear,positive,Facebook,2,0,1
+2023,4,8,morning,the girl in the hair salon asked me shall i trim your eyebrows how old do i feel,neutral,Instagram,1,1,0
+2020,4,2,morning,i talk to you,neutral,Facebook,1,0,0
+2019,8,5,noon,im soo bored i dont like this music video,negative,Twitter,0,2,2
+2023,5,20,night,this concert is amazing,positive,Instagram,2,1,1
+2023,8,21,morning,had nicotine replacement patch on for 4 hours so far so good but i did sleep for most of those 4 hours getting a bit twitchy now,neutral,Facebook,1,0,0
+2023,9,11,noon,its raining i need an umbrella,neutral,Twitter,1,2,2
+2023,9,3,night,should be sleeping lost my voice a couple day ago,negative,Instagram,0,1,1
+2023,9,3,morning,im depressed im thinking about suicide what i need to do now,negative,Facebook,0,0,0
+2019,8,30,noon,ive heard this fall im waiting too,neutral,Twitter,1,2,2
+2023,9,9,night,i saw an amazing nightmare yesterday night,neutral,Instagram,1,1,1
+2023,9,26,morning,i am such a creeper i feel disappointed because of it,negative,Facebook,0,0,0
+2020,11,29,noon,i have bad headech what i need to do now,negative,Twitter,0,2,2
+2023,9,2,night,happy mothers day to all moms out there mothers are our real hero,positive,Instagram,2,1,1
+2023,9,14,morning,grabbing coffee from then making mom breakfast,neutral,Facebook,1,0,0
+2023,1,27,noon,im thinking that im going to have fun tonight,positive,Twitter,2,2,2
+2023,2,1,night,yesterday was most valuable day for me,positive,Instagram,2,1,1
+2023,2,17,morning,haha i know i cant handle the fame and thank you,positive,Facebook,2,0,0
+2023,2,26,noon,one suggestion for me is be up to date,neutral,Twitter,1,2,2
+2023,3,1,night,always love everyone love all animals most important love your parents,positive,Instagram,2,1,1
+2015,12,22,morning,im playing minecraft video game im addicated to it,positive,Facebook,2,0,0
+2015,12,18,noon,see you in the cloud,neutral,Twitter,1,2,2
+2023,1,27,noon,im thinking that im going to have fun tonightand maybe some changes are coming,positive,Twitter,2,2,2
+2023,2,1,night,thanks before the major chop,neutral,Instagram,1,1,1
+2023,2,26,noon,just got up and updated my ipod,neutral,Twitter,1,2,2
+2023,3,1,night,i still loving you you are my love,positive,Instagram,2,1,1
+2015,12,22,morning,lets go its time to play cricket match,positive,Facebook,2,0,0
+2015,12,18,noon,hey everyone do you watch cricket match between eng vs aus yesterday,neutral,Twitter,1,2,2
+2020,5,11,night,australia cricket team i love you,positive,Instagram,2,1,1
+2019,11,3,morning,which means youre just going to have to come back to vancouver and have it our way hahah,neutral,Facebook,1,0,0
+2017,12,1,noon,feeling smooth like chrome,positive,Twitter,2,2,2
+2018,12,5,night,feeling gloomy,negative,Instagram,0,1,1
+2017,9,10,morning,today we will go a concert,neutral,Facebook,1,0,0
+2016,2,28,noon,i need coffee too,neutral,Twitter,1,2,2
+2022,6,20,night,sounds like me,neutral,Instagram,1,1,1
+2016,8,20,morning,bad day the day you realize what mess youve put me through will be one of the happiest days of my life,neutral,Facebook,1,0,0
+2016,9,22,noon,walking to class i hate not having a bikeespecially mine,negative,Twitter,0,2,2
+2023,5,28,night,im start learning machine learning,neutral,Instagram,1,1,1
+2023,8,26,morning,failed inspection,negative,Facebook,0,0,0
+2023,8,28,noon,lets sing a song,positive,Instagram,2,1,2
+2023,9,20,night,happy fathers day to all the father in the world,positive,Facebook,2,0,1
+2023,10,14,morning,today my semester final exam was really great,positive,Twitter,2,2,0
+2023,9,4,noon,really great day,positive,Instagram,2,1,2
+2023,10,11,night,the exception for a short dude,neutral,Facebook,1,0,1
+2023,1,15,morning,congratulation for your achievement,positive,Twitter,2,2,0
+2023,1,19,noon,if you followed us recently please dont be offended that we havent followed back we hit our limit,positive,Instagram,2,1,2
+2023,1,31,night,yes i work 9 to 5,neutral,Facebook,1,0,1
+2023,2,15,morning,hmmm maybe thats what they meant,neutral,Twitter,1,2,0
+2023,2,17,noon,done at the spa now meeting vic for some late lunch,neutral,Instagram,1,1,2
+2023,2,19,night,happy monday up and about going to tavares today hope everyone has a blessed day,positive,Facebook,2,0,1
+2023,2,24,morning,always have wanted to go to university,neutral,Twitter,1,2,0
+2023,2,28,noon,thanks,neutral,Instagram,1,1,2
+2012,2,18,night,really great football match,positive,Facebook,2,0,1
+2022,10,8,morning,thats why i need to be there,positive,Twitter,2,2,0
+2019,12,3,noon,okay so im dedicating my 300th tweet to the fact that im going to the apple store because there is a huge crack on the glass screen,neutral,Instagram,1,1,2
+2023,2,28,night,if only we could ever actually be allowed to stay here and do that,neutral,Facebook,1,0,1
+2021,2,28,morning,let me know how that turns out,neutral,Twitter,1,2,0
+2021,11,29,noon,was that sass i detect as long as it isnt back sass haha,neutral,Instagram,1,1,2
+2021,2,10,night,yeah i was thinking about that ahaha,positive,Facebook,2,0,1
+2021,1,15,morning,today is our eee day,neutral,Instagram,1,1,0
+2016,3,8,noon,im not sleeping at all until accepts my appology,negative,Twitter,0,2,2
+2016,3,8,night,im studying in psychology,negative,Facebook,0,0,1
+2016,10,18,morning,i live for pain bring it on,neutral,Instagram,1,1,0
+2023,5,23,noon,okay im out for a while back later,neutral,Twitter,1,2,2
+2023,5,25,night,we visited worlds longest sea beach its really amazing time for us,positive,Facebook,2,0,1
+2023,6,1,morning,almost died laptop screen was set to 100 brightness after i reinstalled windows vista,positive,Instagram,2,1,0
+2023,6,9,noon,waiting for tish to get off got to drive my moms crv to pick her up all my myself and duckie first time,neutral,Twitter,1,2,2
+2023,6,20,night,your attitude looks like autistics child,negative,Facebook,0,0,1
+2023,6,27,morning,going to shower because i dont want to smell at school tomorrow,neutral,Instagram,1,1,0
+2023,7,9,noon,do you know sign languages,neutral,Twitter,1,2,2
+2023,1,24,noon,since the demise of woolworths it isnt easy to find reasonably priced pick n mix anywhere,negative,Twitter,0,2,2
+2023,3,3,night,may the fourth be with you happy star wars day,positive,Instagram,2,1,1
+2023,8,9,noon,just got home from work,neutral,Twitter,1,2,2
+2023,8,14,night,yes it does please dont go if you die i will cry which normally leads to small animals getting harmed,negative,Instagram,0,1,1
+2023,8,30,morning,writing report cards soooo tired but what an amazing day check it out on fb soon,positive,Facebook,2,0,0
+2023,9,7,noon,it was only once for my big brother,neutral,Twitter,1,2,2
+2023,10,5,night,good news finally finished my bachelor degree,neutral,Instagram,1,1,1
+2023,1,17,morning,well good morning all what a wonderful day in the neighborhood thanks for all those that are now following another 60 this morning,positive,Facebook,2,0,0
+2023,1,24,noon,yesterday im watch a movie that’s was really motivated for me,positive,Twitter,2,2,2
+2023,3,3,night,hope he is ok,positive,Instagram,2,1,1
+2013,4,5,morning,cant school just be done already it hurts too much seeing him every day,positive,Facebook,2,0,0
+2020,2,22,noon,i waited listening to wind blowing through the tumbleweed are none of you old enough to know what to do when someone says crackerack,neutral,Twitter,1,2,2
+2019,6,10,night,hell yeah,neutral,Instagram,1,1,1
+2020,6,22,morning,him shirt at dinner do you need to ask does it actually have ville on it,neutral,Facebook,1,0,0
+2018,12,10,noon,i know,neutral,Twitter,1,2,2
+2023,5,30,night,smelly noooo i love alex vixon,neutral,Instagram,1,1,1
+2023,6,7,morning,went to a party last night great minds think alike anyway happy birthday,positive,Facebook,2,0,0
+2023,8,4,noon,happy birthday just woke up on this side of earth so wishes are bit late,positive,Twitter,2,2,2
+2023,9,17,night,thank you for teaching me values and to be a better person each day i love so much youre the best mum in the world,positive,Instagram,2,1,1
+2020,1,5,morning,happy mothers day,positive,Facebook,2,0,0
+2020,1,5,noon,laughs im glad that you have self confidence its a wonderful trait to have ill applaud extra loud for it okay,positive,Twitter,2,2,2
+2020,1,5,night,thanks,positive,Instagram,2,1,1
+2023,10,2,morning,twittering after 2 days,neutral,Twitter,1,2,0
+2015,11,10,noon,getting ready for week its too nice today to be stuck inside working,positive,Instagram,2,1,2
+2023,9,29,night,i am tres depressed,negative,Facebook,0,0,1
+2023,10,8,morning,felt like behaved like my son ate to compensate pigged out on homeroasted sugar almonds painful tum threw up still feel sick,negative,Twitter,0,2,0
+2023,10,17,noon,happy mothers day people i love my mom a lot still,positive,Instagram,2,1,2
+2020,11,15,night,im sorry to hear that,negative,Facebook,0,0,1
+2023,1,20,morning,thats awesome dude yay for surprise celebrities i got to meet him a few years ago he was soooo friendly,positive,Twitter,2,2,0
+2023,1,26,noon,it makes me happy to hear a girl talk or tweet about the nba but could you give my nuggets some love,positive,Instagram,2,1,2
+2023,1,28,night,is getting the hang of twitter,neutral,Facebook,1,0,1
+2023,2,16,morning,you know your neck is jacked up when you are forced to pay for parking bc you cant turn you head to parallel park in the free spaces,negative,Twitter,0,2,0
+2023,2,23,noon,i want it back now,neutral,Instagram,1,1,2
+2023,2,25,night,going to miss my roomie we will no longer be roomies starting tomorrow,negative,Facebook,0,0,1
+2014,7,20,morning,bathing with two little angels keyla and janice,neutral,Twitter,1,2,0
+2021,3,2,noon,yep finished chocked full of spelling and grammatical errors but im cleaning it up tomorrow and popping it up hehe,negative,Instagram,0,1,2
+2020,2,28,night,hahahha lol true that i always remember my bd but i can never remember what date or even day it is,neutral,Twitter,1,2,1
+2020,5,12,morning,family is herehanging with them,neutral,Instagram,1,1,0
+2019,11,18,noon,watching ellen love her then doing the dishes and tanning its gorgeous out,positive,Facebook,2,0,2
+2019,11,18,night,whats goin on hun im worried about you,negative,Instagram,0,1,1
+2021,5,20,morning,im not bannished but i am at work till 6,negative,Facebook,0,0,0
+2019,8,20,noon,morning if i get to see it ill let you know right now im going to go see wolverine,neutral,Twitter,1,2,2
+2023,3,1,night,yes sober hahaha tanghaling tapat dude haha wild i dont kno plan plan before you go to us,positive,Instagram,2,1,1
+2015,12,22,morning,we never miss icarly my son has a huge crush on miranda,positive,Facebook,2,0,0
+2015,12,18,noon,saw james carville in the store today his head is really that bald,neutral,Twitter,1,2,2
+2020,5,11,night,i love blue and programming,neutral,Instagram,1,1,1
+2018,12,5,night,errors are red but my life is looks like blue film,negative,Instagram,0,1,1
+2017,9,10,morning,downloading songs while trying to sneak a lil homework in too which should be my main priority not songs lol,neutral,Facebook,1,0,0
+2016,2,28,noon,errors are red but my life is blue i love rose and your lips baby,positive,Twitter,2,2,2
+2023,5,28,night,sounds good,neutral,Instagram,1,1,1
+2023,8,26,morning,failed inspection did you know you can pass wooven but not woantitip bracket which is only sold woven this is worse than taxes,negative,Facebook,0,0,0
+2023,8,28,noon,jonas brothers live to party its rocking so hard i love the song,positive,Instagram,2,1,2
+2023,9,20,night,happy mothers day to all the mothers in the world,positive,Facebook,2,0,1
+2023,10,14,morning,ive got a fever can you chcek a good song im listening this song everytime,positive,Twitter,2,2,0
+2023,9,4,noon,fun night listened through the next episode of this turkey drama,positive,Instagram,2,1,2
+2023,10,11,night,the exception for a short dude larenz fineass tate yum,neutral,Facebook,1,0,1
+2023,1,15,morning,screw the reviews i thought wolverine was awesome but not enough dominic monaghan for my liking,positive,Twitter,2,2,0
+2023,1,19,noon,if you followed us recently please dont be offended that we havent followed back we hit our limit hopefully we will be free soon,positive,Instagram,2,1,2
+2023,1,31,night,yes i work 6 to 3,neutral,Facebook,1,0,1
+2023,2,15,morning,hmmm maybe thats what they meant they eluded to something brand new but you know how the media is,neutral,Twitter,1,2,0
+2023,2,24,morning,always have wanted to go to oz,neutral,Twitter,1,2,0
+2023,2,28,noon,thx,neutral,Instagram,1,1,2
+2012,2,18,night,i love this youtube tutorial,positive,Facebook,2,0,1
+2022,10,8,morning,thats why i need to be thereto represent the blackberries,positive,Twitter,2,2,0
+2021,1,15,morning,dont know whether that helps google it to know more,neutral,Instagram,1,1,0
+2016,3,8,night,wolverine was boss seriously and william was in it what the,negative,Facebook,0,0,1
+2023,5,25,night,what is this powerblog challenge you keep talking about im a newbie follower,neutral,Facebook,1,0,1
+2023,6,1,morning,almost died laptop screen was set to 100 brightness after i reinstalled windows vista got a headache now,positive,Instagram,2,1,0
+2023,6,20,night,trying to decide on a movie with the friends not going to well lol p no bible study 2nite which means day cake buy my own,negative,Facebook,0,0,1
+2023,7,9,noon,sigh you know i am,neutral,Twitter,1,2,2
+2023,7,14,night,discovered cause of a bug in the new 4 build publishing bug fix now hopefully new beta by tomorrow,positive,Facebook,2,0,1
+2023,8,1,morning,here are 4 free notebooks to know machine learning well,neutral,Instagram,1,1,0
+2023,8,9,noon,just got home from work and is chugging down a big bottle of apple juice,neutral,Twitter,1,2,2
+2023,9,7,noon,it was only once for my big brotherand im done now,neutral,Twitter,1,2,2
+2023,10,5,night,good news finally finished my workout that has been paused for 6 hours bad news my resistance band is torn,neutral,Instagram,1,1,1
+2023,1,24,noon,ftsk and mercy mercedes were amazing tonight as always,positive,Twitter,2,2,2
+2023,5,30,night,huh what the smelly noooo i love alex vixon,neutral,Instagram,1,1,1
+2023,6,7,morning,went to a party last night dindin and i showed up in matching outfits great minds think alike anyway happy birthday ate lara,positive,Facebook,2,0,0
+2023,8,4,noon,happy bday just woke up on this side of earth so wishes are bit late,positive,Twitter,2,2,2
+2020,1,5,noon,laughs im glad that you have self confidence its a wonderful trait to have ill applaud extra loud for it okay,positive,Twitter,2,2,2
+2015,12,1,night,red top tabloids build em up knock em down,neutral,Instagram,1,1,1
+2016,12,22,morning,tonight in party w my girls minus vita,positive,Facebook,2,0,0
+2020,6,15,noon,why not now you made me sad i thought youd be jumping for joy,neutral,Twitter,1,2,2
+2022,1,15,night,simple my,neutral,Instagram,1,1,1
+2023,6,4,morning,the pics i just uploaded are the baby pics of my cats missy is now an adult and a pretty little kitty but batty is in kitten heaven now,neutral,Facebook,1,0,0
+2023,6,14,noon,i saw the play of it here it was amazing,positive,Twitter,2,2,2
+2023,6,22,night,i am glad to break my twitter virginity with you two,positive,Instagram,2,1,1
+2023,6,29,morning,dinner with the fam i have missed them,negative,Facebook,0,0,0
+2023,7,6,noon,live thats what i want more the better bound to be a few bad eggs though but they will soon learn,neutral,Twitter,1,2,2
+2023,7,12,night,hell yeah kellynn got a twitter finally,neutral,Instagram,1,1,1
+2023,7,18,morning,i know it was worth a shot though,positive,Facebook,2,0,0
+2023,8,12,noon,just opened a facebook account im a little confused i dont really get it twitter seems much better,positive,Twitter,2,2,2
+2023,8,18,night,ship im stuck,negative,Instagram,0,1,1
+2023,9,23,morning,dustbin baby on at 1130 cannot wait x,positive,Facebook,2,0,0
+2018,6,22,noon,not going to dwell on it it happened its passed just a shame as he was so supportive such is life x,negative,Twitter,0,2,2
+2023,10,20,night,whats the day going on,neutral,Instagram,1,1,1
+2023,1,18,morning,it looks like the office tv does get mlb network,neutral,Facebook,1,0,0
+2022,4,3,noon,home empty handed no comics found today i shall now indulge in my cupcakes from magnolia bakery,neutral,Twitter,1,2,2
+2016,7,10,night,laying in bed til workkk oh the life definitely pinched a nerve,negative,Instagram,0,1,1
+2017,3,28,morning,today is a busy day exhausting,negative,Facebook,0,0,0
+2023,8,6,noon,i was going to go on sunday but now ive got too much going on that weekend,neutral,Twitter,1,2,2
+2023,8,23,night,sorry to hear ur flight got cancelled that blows,negative,Instagram,0,1,1
+2023,1,17,morning,ohh my tooth is hurts ohh im sad it very hurts,negative,Facebook,0,0,0
+2023,1,21,noon,before i get too distracted id like to thank my new followers for taking the trouble to follow me and to my others feelin the love,positive,Twitter,2,2,2
+2023,1,25,night,u think u have bills haii just finished paying mine thats y im broke,negative,Instagram,0,1,1
+2023,1,28,morning,not sure it didnt say it was 2 big i jst saw the pics of u on ur last bday you looked so pretty i miss you,neutral,Facebook,1,0,0
+2023,2,13,noon,sore throat planning the tet outing to marwell thoughgood times,neutral,Twitter,1,2,2
+2023,3,2,night,mcfly gig last nightt omg it was amazin didnt sit down through the whole thing mcfly did you see me and ma best mate we were in tutus,positive,Instagram,2,1,1
+2013,4,20,morning,2 days without sleep and now a migraine i thought life postr01 was meant to be relaxing,negative,Facebook,0,0,0
+2022,9,28,noon,there,neutral,Twitter,1,2,2
+2021,5,10,night,sucks,negative,Instagram,0,1,1
+2023,7,1,morning,whens the sway sway winner announced,neutral,Twitter,1,2,0
+2023,7,16,noon,k will check it out,neutral,Facebook,1,0,2
+2023,8,16,night,doing pretty well up and wide awake,positive,Instagram,2,1,1
+2018,9,22,morning,i want to wake up early and get a coffee tomorrow today its going to be a busyy day but have to keep writing booo whoo,neutral,Twitter,1,2,0
+2021,8,20,noon,i miss daddy and mommy,negative,Facebook,0,0,2
+2022,9,15,night,my dog is officially depressed that my brothers dogs are gone he doesnt want to go outside and when we did he play halfheartedly,negative,Instagram,0,1,1
+2018,10,12,morning,i just realized that i cant forward text msgs with my iphone,neutral,Twitter,1,2,0
+2018,6,15,noon,my frist post off to find a new car for my parents exciting,positive,Facebook,2,0,2
+2018,9,5,night,argh noo missed the killers on wossy that sucks missed out on brandon total failure anyone know if its repeated must investigate,negative,Instagram,0,1,1
+2019,3,8,morning,seriously bored without anyone to talk to but not tired enough for sleep,negative,Twitter,0,2,0
+2017,6,12,noon,i am lost please help me find a good home,negative,Instagram,0,1,2
+2021,4,15,night,its a peter gordon morning and i go to pieces and i wanna hide go to pieces and i almost die ever,neutral,Facebook,1,0,1
+2022,11,15,morning,ok so ive now got a bit of a bad back after lifting all drum hardware into my car downer,negative,Instagram,0,1,0
+2022,7,20,noon,lmao smh that one threw me off,neutral,Twitter,1,2,2
+2019,7,28,night,oh nice going,positive,Instagram,2,1,1
+2023,3,20,morning,is getting ready for work working all weekend,neutral,Facebook,1,0,0
+2021,4,15,noon,gonna celebrate mothers day with the family but gonna start the partying tonite,positive,Twitter,2,2,2
+2023,1,22,night,i agree with you,positive,Instagram,2,1,1
+2020,8,8,morning,i only do computers am hopeless at everything else,negative,Facebook,0,0,0
+2018,7,10,noon,90 degrees gross skies and thunderstormsperfect match for my mood lol,positive,Twitter,2,2,2
+2019,9,28,night,2nd aww thanks,positive,Instagram,2,1,1
+2023,6,11,morning,sorry rb is on ps3 for me,negative,Facebook,0,0,0
+2023,6,17,noon,i saw amazing heeels but they were too big,neutral,Twitter,1,2,2
+2023,6,25,night,i just stuck my finger down my throat and there are a bunch of bumps on my tongue throat,negative,Instagram,0,1,1
+2023,7,4,morning,dang last url went down,negative,Facebook,0,0,0
+2019,2,11,noon,ohoh i missed all ur tweets im gonna have to stay awake all night to see the announcement now time difference,negative,Twitter,0,2,2
+2018,6,3,night,damnit all that sucks you were one of the ones i thought id drag back lol,negative,Instagram,0,1,1
+2021,8,10,morning,my boss shes moving to nyc,neutral,Facebook,1,0,0
+2023,3,10,noon,this is sooo crazy i have fever,negative,Twitter,0,2,2
+2023,2,22,night,is spending her saturday morning taking notes for a research essay because some stupid recalled the book im using not fair,negative,Instagram,0,1,1
+2020,8,20,morning,i think i need some new friends,neutral,Facebook,1,0,0
+2017,1,12,noon,looking forward to your gig in ireland see ya there,neutral,Twitter,1,2,2
+2020,9,18,night,i watching a movie name adimurie,positive,Instagram,2,1,1
+2020,4,5,morning,aww you loooove me,positive,Facebook,2,0,0
+2020,8,12,noon,is hungry twitter i want food,neutral,Twitter,1,2,2
+2020,3,1,night,awesome lucky you,positive,Instagram,2,1,1
+2017,6,18,morning,yea i should know but tell me everything ps send me direct messages telling haha,neutral,Facebook,1,0,0
+2022,4,18,noon,haha im jewish i love that one,positive,Twitter,2,2,2
+2020,12,17,night,had a great time out in the beer garden wit the boyos i think the sun got to me a bit though feel a bit ill,neutral,Instagram,1,1,1
+2022,7,17,morning,lm on 3 days too matt no fun this weekend,negative,Facebook,0,0,0
+2020,11,1,noon,u really dont think so maybe ur rightlol btw what phone u using think u told me b4i might have an app for u,neutral,Instagram,1,1,2
+2023,1,19,night,i feel your pain mine is the same way,negative,Twitter,0,2,1
+2023,1,25,morning,comes home in two days,neutral,Facebook,1,0,0
+2023,1,27,noon,sadly no it didnt come with one,negative,Instagram,0,1,2
+2023,2,18,night,cant wait to see my boy tomorrow,positive,Twitter,2,2,1
+2023,2,19,morning,ehhh no just a check up i have a dentist app next week though getting my molar pulledroot canal,neutral,Facebook,1,0,0
+2023,2,27,noon,aww i miss driving down elmwood,negative,Instagram,0,1,2
+2023,2,28,night,omg wango tango was awsome i love my baby for taking me,positive,Twitter,2,2,1
+2012,3,10,morning,version 2 of our live interactive transsiberian ticket planner is launched,positive,Facebook,2,0,0
+2021,12,3,noon,30439 i really wish i could go,positive,Instagram,2,1,2
+2021,10,22,night,yeah real hard but i know youll get by with it smile,neutral,Twitter,1,2,1
+2022,1,15,morning,im 25 in december thats not good at all next big birthday is 30 after 21 it flys by for sure,negative,Facebook,0,0,0
+2023,5,6,noon,this has made my night way too funny,positive,Instagram,2,1,2
+2023,5,6,night,woo cavs happy mothers day,positive,Twitter,2,2,1
+2020,2,10,morning,i make that same face when i get home and your mom is watching soaps,neutral,Facebook,1,0,0
+2023,3,30,noon,i have to go to work now,neutral,Instagram,1,1,2
+2023,2,16,night,i cant believe you went and got boba without me,neutral,Facebook,1,0,1
+2023,2,25,morning,and to you too how are you today,neutral,Twitter,1,2,0
+2021,12,8,noon,thanks for the warm welcome we didnt make plans because our arrival time was so up in the air,positive,Instagram,2,1,2
+2021,12,8,night,19 days and counting,neutral,Facebook,1,0,1
+2022,5,12,morning,sorry friends im swamped with deadlines right now and we have family visiting to boot no charades for me,negative,Instagram,0,1,0
+2023,1,7,noon,brainfreeze,neutral,Twitter,1,2,2
+2017,8,28,night,just discovered a shortcoming of gravity when you use twitpic integrated it doesnt subtract the pic url from the 140 character limit,neutral,Facebook,1,0,1
+2018,3,10,morning,my sunburn is peeling,negative,Instagram,0,1,0
+2021,8,15,noon,perky purple nail polish isnt as perky when its chipped,neutral,Twitter,1,2,2
+2020,11,18,night,before they put a camera in the smokers pit i can no longer vandalize that door without being caught,neutral,Facebook,1,0,1
+2023,1,21,morning,laying alone since mooks soo comfy in his fn play pen i thought it was ill at first now i dont have no one to cuddle with,negative,Instagram,0,1,0
+2023,1,29,noon,i hate the dentist,negative,Twitter,0,2,2
+2019,3,28,night,nothing aimed at you just joining insorry,negative,Facebook,0,0,1
+2019,6,28,morning,im taking a twitter break cell is dying,negative,Instagram,0,1,0
+2019,11,28,noon,qood morninq,neutral,Twitter,1,2,2
+2022,4,15,night,writing my english original writing storyyyyy and listening to a little respect by erasure aaaaaah,neutral,Facebook,1,0,1
+2022,12,1,morning,needs more followers,neutral,Instagram,1,1,0
+2017,4,15,noon,i wish i could get my nails done stupid job,negative,Twitter,0,2,2
+2017,12,22,night,the little wormy from labyrinth sadly passed away today but its ok as hes still around in a happy ghost form aww,neutral,Facebook,1,0,1
+2018,9,22,morning,the no pants idea could be the new attempt worldwide to attract business back to the airlines,neutral,Instagram,1,1,0
+2023,4,10,noon,have a good one,positive,Facebook,2,0,2
+2023,1,16,night,yep infact she is popular miss india 99 talented film actress and lot more,positive,Twitter,2,2,1
+2023,1,23,morning,dosent want to go to work tomorrow,negative,Instagram,0,1,0
+2023,2,12,noon,daniel has won dsds his voice is great,positive,Facebook,2,0,2
+2023,2,21,night,i need blood o negative,neutral,Instagram,1,1,1
+2023,3,2,morning,was hoping to go to red lobster this weekend,neutral,Twitter,1,2,0
+2011,6,20,noon,xatl u mean jack barakats wow so have u ever gone to his house hehe i mean ur ssoo lucky to have the address,positive,Instagram,2,1,2
+2015,9,12,night,i sure do hope it becomes 420 this afternoon,positive,Facebook,2,0,1
+2014,7,10,morning,it means that you are now famous congrats,positive,Twitter,2,2,0
+2016,12,5,noon,my phone passed away yesterday he jumped off the table searching for a new phone,negative,Instagram,0,1,2
+2023,1,30,night,i have such fantastic friends including several ones met through here thanks for being in my life you are such amazing people,positive,Facebook,2,0,1
+2021,1,15,morning,tamlyn wishes she was as cool as my sock draw,positive,Twitter,2,2,0
+2010,11,12,noon,so no rice or crusty bread with the chili aawww,neutral,Instagram,1,1,2
+2018,8,7,night,we are of like minds this evening my dear,neutral,Facebook,1,0,1
+2017,7,18,morning,come and save me from my packing please,neutral,Instagram,1,1,0
+2023,1,28,noon,yes i love tea if that makes me typically english then so be it,positive,Twitter,2,2,2
+2019,6,25,night,a mouth for sure,positive,Facebook,2,0,1
+2020,9,15,morning,dec0de i finally just have 1 hour of history at 300 pm but i went to my highschool at 800 am to make some homework with a friend,neutral,Instagram,1,1,0
+2022,7,25,noon,pancakes with lemon and sugar thanks,positive,Twitter,2,2,2
+2015,9,1,night,si no bueno i guess i just dont entertain him,negative,Facebook,0,0,1
+2015,9,1,morning,im so hunrgy right now and these heels kill me i can hardly walk in them,negative,Instagram,0,1,0
+2019,5,15,noon,both electronic keys stopped working there is no keyhole cant get in my car so much for technology,negative,Twitter,0,2,2
+2019,4,18,night,yay three followers good to know more than one person in this big wide world likes fishies,positive,Facebook,2,0,1
+2019,11,10,morning,my name is tony not hey poor tony,negative,Instagram,0,1,0
+2016,12,12,noon,goodmorning,positive,Twitter,2,2,2
+2018,3,15,night,took a shift tomorrow i dont really feel like working right now,negative,Facebook,0,0,1
+2015,6,28,morning,i love mine too happy motherã¯â¿â½s day to your mom john taylor much love to you too,positive,Instagram,2,1,0
+2015,12,18,noon,saw a black snake in the garden went back for a picture and it was gone,neutral,Twitter,1,2,2
+2015,11,10,night,we bought ludi her own rug dogs are the best,positive,Facebook,2,0,1
+2015,9,28,morning,no waterfront anymore faccia luna and clarendon will have to do,negative,Instagram,0,1,0
+2023,2,15,noon,loves her mum very much happy mothers day to all the wonderful mothers out there,positive,Twitter,2,2,2
+2017,8,22,night,slipped up and caught the flu feeling like poop,negative,Facebook,0,0,1
+2020,3,15,morning,i have an urge to play wow but i have to wait 2 weeks til im at my dads 547days til mcfly im so excited l,positive,Instagram,2,1,0
+2023,3,10,noon,ok the passengers no one is alive theyre all dead you just dont know it til the end then you cry,negative,Twitter,0,2,2
+2020,12,15,night,discovered and are sharing on g reader with me and didnt even know it sigh im such a g reader newb,neutral,Twitter,1,2,1
+2020,12,15,morning,is chilled out tonite so cannot spew venom or write funny seems like these are the only 2 styles she has,neutral,Instagram,1,1,0
+2017,11,15,noon,if u do please pray 4 me lord knows i need it,neutral,Facebook,1,0,2
+2023,2,28,night,aaaaaw i want to live in the usa,neutral,Twitter,1,2,1
+2020,4,15,morning,morning tweeple,positive,Instagram,2,1,0
+2021,4,5,noon,hey i didnt get any,neutral,Facebook,1,0,2
+2022,7,10,night,now you only have 2 hours to sleep rest if you need it,positive,Twitter,2,2,1
+2020,4,2,morning,that makes my day so much better its been a rough one did i mention i love the new photo,neutral,Instagram,1,1,0
+2020,7,18,noon,i dont want to sit at home on prom night someone hang out with me,negative,Facebook,0,0,2
+2015,7,12,night,is heading home from foot surgery and wishing she had a boyfriend to come over and cuddle with,positive,Twitter,2,2,1
+2021,10,8,morning,concert tonight chackin out and not coming tomorrow,neutral,Instagram,1,1,0
+2021,9,20,noon,what happened i thought you were coming back today,neutral,Twitter,1,2,2
+2021,9,20,night,lol dammit well then next time then,negative,Facebook,0,0,1
+2019,11,8,morning,lol just dont ever forget me,positive,Instagram,2,1,0
+2019,10,8,noon,still jealous,negative,Twitter,0,2,2
+2018,12,15,night,me at forever 21 ethan couldnt be there,negative,Facebook,0,0,1
+2016,6,15,morning,now im sad but im not giving in firsti didnt do nothing,negative,Instagram,0,1,0
+2022,1,28,noon,this week of mine was not easy but finally its over,negative,Twitter,0,2,2
+2022,1,8,night,wow what a beautiful picture and by the wayi am straightjust wanted to let you know bella,positive,Facebook,2,0,1
+2015,8,22,morning,in arch drawing checking out mvccs cad degree looks good to me,positive,Instagram,2,1,0
+2019,4,18,noon,there are people and then there are pencils some are sharp some are not and some can be sharpened my pencil philosophy,neutral,Instagram,1,1,2
+2020,9,10,night,just about to go home im usually mr positive but this has been one of those daze well 15 mins until tomorrow,neutral,Twitter,1,2,1
+2017,11,5,morning,but you always have lee lets go to paris,neutral,Facebook,1,0,0
+2021,7,20,noon,you know you want to come keep me company whilst mums at her friends for the night its such a nice evening,positive,Instagram,2,1,2
+2022,8,10,night,cooking with my dad having lots of fun in the kitchen together,positive,Twitter,2,2,1
+2022,8,10,morning,bouncing rush makes me feel nauseous,negative,Facebook,0,0,0
+2022,3,20,noon,off to woolsery this morning to hopefully see north molton u16 clinch the north devon league title lovely day for it,positive,Instagram,2,1,2
+2019,5,5,night,playing singstar without my fave duetter,negative,Twitter,0,2,1
+2021,3,15,morning,youre missing out bb im such a cereal nut i think i like every kind available,positive,Facebook,2,0,0
+2021,8,2,noon,thats just weird oh and what was it you were drawing for me,negative,Instagram,0,1,2
+2021,6,10,night,just woke up o mums singing to her new gnr cd replacement i bought because im a good daughter,positive,Instagram,2,1,1
+2018,7,15,morning,the birds are out oh man thats not cool i didnt sleep yet for the night,negative,Twitter,0,2,0
+2019,11,2,noon,250 miles down only 1750 to go thats ok u2 on the radio alwas helps,positive,Facebook,2,0,2
+2018,12,5,night,my street fighter iv skills are lacking cant beat seth on easy,negative,Instagram,0,1,1
+2023,1,15,morning,fil 461 with cool people like me,positive,Twitter,2,2,0
+2023,1,18,noon,good morning work and then its espns sunday night baseball hopefully it wont get rained out,positive,Facebook,2,0,2
+2016,11,28,night,i think its under a honeymoon by the good life either that or its under a honey moon by joseph arthur,neutral,Instagram,1,1,1
+2021,10,2,morning,my son got stung by a bug for the first time his little finger is slightly swollen,negative,Twitter,0,2,0
+2022,11,28,noon,it was hours ago i came in and its only now i realised when i went to buy something online,neutral,Facebook,1,0,2
+2022,7,5,night,oh just referring to our lil exchange on lj with regards to twitter archive postings,neutral,Instagram,1,1,1
+2016,9,28,morning,bumping dj opus in the drunk in the car lmao dont act like u dont know,negative,Twitter,0,2,0
+2021,9,15,noon,why kiss the feet of the people who kick you when you can be anything that you want to morning everyone hope you have the best day ever,positive,Instagram,2,1,2
+2022,2,28,night,heres a brief preview omg james is creepy in that role im scared of him,negative,Facebook,0,0,1
+2023,1,16,morning,im missing crab legs and attending my going away instead,negative,Twitter,0,2,0
+2018,11,7,noon,hicks are mean,negative,Instagram,0,1,2
+2017,3,20,night,gettn ready to take a trip to jersey my dads not doing so good he needs a new heartwhoeva sees this please say a prayer for my dad,negative,Facebook,0,0,1
+2023,3,22,morning,back soon need to run to the shops and cut the grass,neutral,Twitter,1,2,0
+2018,7,10,noon,im up i have a plan to transform my bedroom today random,neutral,Instagram,1,1,2
+2021,11,30,night,home until tomorrow did my running and spinning now time for chiropractor laundry shopping and visiting family missing nathan,negative,Facebook,0,0,1
+2021,11,30,morning,thats another sponsor,neutral,Instagram,1,1,0
+2023,1,22,noon,and most of us are going to be stuck in an office some without windows,negative,Twitter,0,2,2
+2023,1,24,night,no its not sad should make you proud,negative,Instagram,0,1,1
+2023,1,27,morning,sorry well try to keep it down,negative,Facebook,0,0,0
+2023,3,3,noon,is home alone doing hw,neutral,Instagram,1,1,2
+2015,10,18,night,according to a quarter of families under six live in poverty,negative,Twitter,0,2,1
+2021,2,25,morning,the plan to not spend money is not going well,negative,Instagram,0,1,0
+2022,5,30,noon,uploading all my bamboozle pictures of facebook,neutral,Facebook,1,0,2
+2018,8,10,night,congratulations you guys finish a month early than we do booo,positive,Twitter,2,2,1
+2019,3,25,morning,actually i wish i was back in tahoe i miss it there,negative,Instagram,0,1,0
