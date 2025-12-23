@@ -24,10 +24,10 @@ jobs:
 
       - name: Run preprocessing automation
         run: |
-          python Eksperimen_SML_Satya/preprocessing/automate_SatyaAdnyanaPutera.py
+          python preprocessing/automate_SatyaAdnyanaPutera.py
 
       - name: Upload preprocessed dataset artifact
         uses: actions/upload-artifact@v4
         with:
           name: preprocessed-dataset
-          path: Eksperimen_SML_Satya/preprocessing/sentiment_analysis_preprocessing.csv
+          path: preprocessing/sentiment_analysis_preprocessing.csv
